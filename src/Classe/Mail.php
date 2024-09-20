@@ -24,7 +24,7 @@ class Mail
             'Messages' => [
                 [
                     'From' => [
-                        'Email' => "laboutiquefrancaise75@gmail.com",
+                        'Email' => "rijalaraz@gmail.com",
                         'Name' => "La Boutique Française"
                     ],
                     'To' => [
